@@ -28,7 +28,7 @@
         },
         {
             "name": "NeoForge",
-            "sha256": "52dc3b481e80881511ae67900a74574fc658344e6ec9dee25911ea58faecb888",
+            "sha256": "f3cf59c77396e84da51e67351194a6b1c2d2eef05b606f11f9523ec501913ac2",
             "uid": "net.neoforged"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "name": "Quilt Loader",
-            "sha256": "592420f0d1f47a0ee8e1d78910e8b55a941156a659153cae224aa605a940d614",
+            "sha256": "8b5f33210c33281ccc60f4f019fe27ae3e6d6a178742fb4ab66f286a34f0ef02",
             "uid": "org.quiltmc.quilt-loader"
         }
     ]
