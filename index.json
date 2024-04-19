@@ -13,17 +13,17 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "2b31b6b8e9a941bbd914f04a8b64877c407af4401098485702d399759f174784",
+            "sha256": "a1f15f1f6acc07558ddedf5aa688df7c959fce9cd94e206c9f67e181f30813bd",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "0709cd331a3c397242ad612eb5012c56d7b1269511fa010ca071f9df99f24e91",
+            "sha256": "2f770bd7ce391f2b390a6b21e913f13e280f78ccfd778cebb1d8f2123912f796",
             "uid": "net.minecraft"
         },
         {
             "name": "Forge",
-            "sha256": "fd6882153d481fd91b519673a5955d954074961d95babf385a727b17f3ae8f83",
+            "sha256": "f78cf1d4f7396a51911e4848ff3687cda7be3896aa4e3eb28b1cc22941cf5e7a",
             "uid": "net.minecraftforge"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "name": "Quilt Loader",
-            "sha256": "889d3682a146ca5eae33dac857b0404e3f0f28097143095ada21324fa5b5baf1",
+            "sha256": "721d9656ed637bc83ae42702f2ab797b3ad6a123422f296586bdc1792bc3c1fc",
             "uid": "org.quiltmc.quilt-loader"
         }
     ]
