@@ -4,6 +4,72 @@
     "uid": "net.neoforged",
     "versions": [
         {
+            "releaseTime": "2024-05-10T23:59:44.891626+00:00",
+            "requires": [
+                {
+                    "equals": "1.20.6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "4430c7b56b78e300374ec97b694bab36ea575e3aef4f0ffa30ec8fa8ed533cb3",
+            "version": "20.6.57-beta"
+        },
+        {
+            "releaseTime": "2024-05-10T16:16:12.528185+00:00",
+            "requires": [
+                {
+                    "equals": "1.20.6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "36c00ce7c8f850119a174c053a4295378db7419b3ffe1c24d7bf02040e00ca25",
+            "version": "20.6.56-beta"
+        },
+        {
+            "releaseTime": "2024-05-10T16:07:00.055487+00:00",
+            "requires": [
+                {
+                    "equals": "1.20.6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "5e7a23b27aaa05d357d7645903980d5846123e46f05e7b8ae724ee66123b5195",
+            "version": "20.6.55-beta"
+        },
+        {
+            "releaseTime": "2024-05-10T16:06:24.871451+00:00",
+            "requires": [
+                {
+                    "equals": "1.20.6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "0607a86783b7f6e36e2a92d869f351399919a0722531004b8c4ecd4d65e7648f",
+            "version": "20.6.54-beta"
+        },
+        {
+            "releaseTime": "2024-05-10T11:45:59.463839+00:00",
+            "requires": [
+                {
+                    "equals": "1.20.6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "292adca474e6cc07212b6ba8e2f113fdde518093bd84c57f9f54e9d6687f75d5",
+            "version": "20.6.53-beta"
+        },
+        {
+            "releaseTime": "2024-05-10T02:31:25.103846+00:00",
+            "requires": [
+                {
+                    "equals": "1.20.6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "9b8418e2817d9dafe18891fdc5a709c320df26baf6043778b29b3904bf957f08",
+            "version": "20.6.52-beta"
+        },
+        {
             "releaseTime": "2024-05-09T21:11:04.789436+00:00",
             "requires": [
                 {
