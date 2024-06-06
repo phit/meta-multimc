@@ -4,6 +4,61 @@
     "uid": "net.neoforged",
     "versions": [
         {
+            "releaseTime": "2024-06-06T00:14:00.034254+00:00",
+            "requires": [
+                {
+                    "equals": "1.20.6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "d12bb41ddc55ad50bb60febf506742bcc1af4e7d85d6f7d76df3e3fe08a4f5ce",
+            "version": "20.6.110-beta"
+        },
+        {
+            "releaseTime": "2024-06-05T16:08:57.638730+00:00",
+            "requires": [
+                {
+                    "equals": "1.20.6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "8dc04ad97ecbfa3346df824005038518133e6f3f2e9f4474cd3ea69294c6b87f",
+            "version": "20.6.109-beta"
+        },
+        {
+            "releaseTime": "2024-06-05T10:56:37.087214+00:00",
+            "requires": [
+                {
+                    "equals": "1.20.6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "5b2c628a3318f2a84b266345a15d7d6719684f3055e697933d2be146d3c74960",
+            "version": "20.6.108-beta"
+        },
+        {
+            "releaseTime": "2024-06-05T07:00:54.690396+00:00",
+            "requires": [
+                {
+                    "equals": "1.20.6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "4fc5117c8d41e90f8a4e0a44a1c671c54744e1964fd09fe81cfa1c0b843a3ab1",
+            "version": "20.6.107-beta"
+        },
+        {
+            "releaseTime": "2024-06-05T06:58:44.045603+00:00",
+            "requires": [
+                {
+                    "equals": "1.20.6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "98427e972a6ea52e14f4902d89f3ee2e9e129f5a6e834113c14856842b857c81",
+            "version": "20.6.106-beta"
+        },
+        {
             "releaseTime": "2024-06-05T00:31:35.147169+00:00",
             "requires": [
                 {
